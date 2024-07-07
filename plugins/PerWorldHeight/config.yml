@@ -1,0 +1,12 @@
+Messages:
+  CantBuildOverLimit: '&cYou can''t build over {LIMIT}!'
+  NoPermission: '&cYou don''t have permission to do this!'
+  TheLimitHeight: '&aThe height limit of your world &e({WORLD}) &ais &e{HEIGHT}'
+  WorldNotFound: '&cThe world {WORLD} doesn''t exists (or it isn''t in the config)'
+  WorldHeightSet: '&aThe world height of &e{WORLD}&a was changed to &e{HEIGHT}'
+  InvalidSetHeight: '&eUsage: /PWH SetHeight -World -Height (Under 255)'
+  WorldImported: '&aWorld &e{WORLD} &aimported!'
+Worlds:
+  world: '128'
+  world_nether: '128'
+  world_the_end: '128'

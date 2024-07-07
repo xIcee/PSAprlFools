@@ -1,0 +1,1 @@
+C:\Users\Icee\Documents\Server\jdk-14.0.2\bin\javaw.exe -Xmx8000M -Xms8000M -jar paper-1.15.2-393.jar
